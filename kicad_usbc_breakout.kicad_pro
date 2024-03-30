@@ -558,13 +558,13 @@
           "group_by": false,
           "label": "MFR",
           "name": "MFR",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "MFR Part Num",
           "name": "MFR Part Num",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
