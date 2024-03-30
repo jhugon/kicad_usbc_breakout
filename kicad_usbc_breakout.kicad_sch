@@ -7,6 +7,7 @@
 	(title_block
 		(title "USB-C Breakout")
 		(date "2024-03-29")
+		(rev "1.0")
 		(company "HugonLabs")
 		(comment 1 "USB-C connector to wires, with CC resistors")
 	)
