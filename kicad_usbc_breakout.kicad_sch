@@ -1695,7 +1695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 97.536 133.604 90)
 			(effects
 				(font
@@ -1731,7 +1731,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part Num" "CRCW12065K10FKEA"
+		(property "MFR Part Num" "CRCW08055K10FKEA"
 			(at 96.52 133.35 0)
 			(effects
 				(font
@@ -1849,7 +1849,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 73.406 125.984 90)
 			(effects
 				(font
@@ -1885,7 +1885,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part Num" "CRCW120656K0FKEA"
+		(property "MFR Part Num" "CRCW080556K0FKEA"
 			(at 72.39 125.73 0)
 			(effects
 				(font
@@ -2202,7 +2202,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 73.406 133.604 90)
 			(effects
 				(font
@@ -2238,7 +2238,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part Num" "CRCW12065K10FKEA"
+		(property "MFR Part Num" "CRCW08055K10FKEA"
 			(at 72.39 133.35 0)
 			(effects
 				(font
@@ -2686,7 +2686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 97.536 125.984 90)
 			(effects
 				(font
@@ -2722,7 +2722,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFR Part Num" "CRCW120656K0FKEA"
+		(property "MFR Part Num" "CRCW080556K0FKEA"
 			(at 96.52 125.73 0)
 			(effects
 				(font
@@ -2973,7 +2973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x04_P4.8mm_D0.9mm_OD2.3mm_Relief2x"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x04_P4.8mm_D0.9mm_OD2.3mm_Relief"
 			(at 152.4 53.34 0)
 			(effects
 				(font
