@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "USB-C Breakout")
-		(date "2024-03-29")
-		(rev "1.0")
+		(date "2024-03-30")
+		(rev "1.1")
 		(company "HugonLabs")
 		(comment 1 "USB-C connector to wires, with CC resistors")
 	)
@@ -1559,7 +1559,7 @@
 		(uuid "6f0384cd-766e-4e97-ac48-9f79963e4e9d")
 	)
 	(label "D+"
-		(at 147.32 55.88 180)
+		(at 147.32 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1581,7 +1581,7 @@
 		(uuid "8d2c6f29-ff4c-4418-a48c-e078f25f8370")
 	)
 	(label "D-"
-		(at 147.32 53.34 180)
+		(at 147.32 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1978,7 +1978,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 147.32 58.42 270)
+		(at 147.32 53.34 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1987,7 +1987,7 @@
 		(fields_autoplaced yes)
 		(uuid "3324756f-d467-4ed5-bdaa-93a4245d8e93")
 		(property "Reference" "#PWR09"
-			(at 140.97 58.42 0)
+			(at 140.97 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1996,7 +1996,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 143.51 58.4199 90)
+			(at 143.51 53.3399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2005,7 +2005,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 147.32 58.42 0)
+			(at 147.32 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2014,7 +2014,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 58.42 0)
+			(at 147.32 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2023,7 +2023,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 147.32 58.42 0)
+			(at 147.32 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
